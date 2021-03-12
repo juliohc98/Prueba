@@ -1,6 +1,6 @@
 # Importaciones necesarias
 import math
-from math import sqrt
+from math import sqrt 
 
 # Declaracion de variables
 triangulo = None 
